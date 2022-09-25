@@ -5,9 +5,12 @@
   
   <h2 align="center">POMODORO</h2>
   
-    <p align="center">
-    <a href="https://github.com/Shirshakhtml/Pomodoro/issues/new?assignees=&labels=bug">Report Bug</a>
-    <a href="https://github.com/Shirshakhtml/Pomodoro/issues">Request Feature</a>
+<p align="center">
+    <a
+      href="https://github.com/Shirshakhtml/Osint-tool/issues/new?assignees=&labels=bug">Report
+      Bug</a>
+    ·
+    <a href="https://github.com/Shirshakhtml/Osint-tool/issues">Request Feature</a>
   </p>
 
   <img alt="Osint-tool" src="https://img.shields.io/github/stars/Shirshakhtml/Pomodoro">
